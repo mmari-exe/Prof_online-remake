@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-// isabel
 void main() {
   runApp(MyApp());
 }
@@ -388,17 +387,7 @@ class Principal extends StatelessWidget {
               ),
             ],
           ),
-          /*appBar: AppBar(
-            backgroundColor: Color.fromARGB(255, 63, 146, 121),
-            title: Text(
-              "Professor Online",
-              style: TextStyle(
-                fontSize: 28,
-                fontWeight: FontWeight.bold,
-                color: Colors.white,
-              ),
-            ),
-          ),*/
+
           body: Container(
             color: Color.fromARGB(255, 143, 219, 211),
             height: 90,
